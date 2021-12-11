@@ -1,10 +1,8 @@
 //
-// Created by oelsp on 11/12/2021.
+// Created by franc on 11/12/2021.
 //
 
-#ifndef ESERCIZIO_VALUTATO_8_LIB_H
-#define ESERCIZIO_VALUTATO_8_LIB_H
-
-float NumeroMassimo(const float numeri[], int dimensione);
-
-#endif //ESERCIZIO_VALUTATO_8_LIB_H
+#ifndef UNTITLED2_ES8_MAXXIARRAY_H
+#define UNTITLED2_ES8_MAXXIARRAY_H
+float numeroMassimo(const float numeri[], int dimensione);
+#endif //UNTITLED2_ES8_MAXXIARRAY_H
